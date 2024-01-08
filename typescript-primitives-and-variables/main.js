@@ -1,0 +1,11 @@
+'use strict';
+const fullName = 'Brett Albright';
+const isCool = true;
+const totalPets = 2;
+console.log('Fullname ', fullName);
+console.log('isCool ', isCool);
+console.log('totalPets ', totalPets);
+const unknown = null;
+let never;
+console.log('unknown ', unknown);
+console.log('never ', never);
